@@ -1,0 +1,72 @@
+{ 
+  "prompt": "Build me a dark monochrome hero section using React + Vite + TypeScript + 
+Tailwind CSS + shadcn/ui + Framer Motion.", 
+  "fonts": { 
+    "sans": "Inter", 
+    "serifAccent": "Instrument Serif" 
+  }, 
+  "theme": { 
+    "background": "#000", 
+    "foreground": "#fff", 
+    "style": "monochrome only, no gradients or colors" 
+  }, 
+  "dependencies": [ 
+    "framer-motion", 
+    "hls.js", 
+    "@fontsource/inter", 
+    "@fontsource/instrument-serif", 
+    "lucide-react", 
+    "tailwindcss-animate" 
+  ], 
+  "heroSection": { 
+    "backgroundVideo": { 
+      "url": "VIDEO_URL_HERE.mp4", 
+      "autoplay": true, 
+      "loop": true, 
+      "muted": true, 
+      "gradient": "h-64 bg-gradient-to-t from-background to-transparent" 
+    }, 
+    "content": { 
+      "avatars": { 
+        "images": ["avatar-1.png", "avatar-2.png", "avatar-3.png"], 
+        "style": "overlapping circular, w-8 h-8, border-2 border-background", 
+        "subscriberText": "X,XXX+ people already subscribed" 
+      }, 
+      "heading": { 
+        "text": "YOUR_HEADLINE_HERE", 
+        "accentWord": "ACCENT_WORD_HERE", 
+        "style": "text-5xl md:text-7xl lg:text-8xl font-medium tracking-[-2px], accent word serif 
+italic" 
+      }, 
+      "subtitle": { 
+        "text": "YOUR_TAGLINE_OR_MISSION_STATEMENT_HERE", 
+        "style": "text-lg text-[hsl(var(--hero-subtitle))]" 
+      }, 
+      "emailForm": { 
+        "containerStyle": "liquid-glass rounded-full p-2 max-w-lg", 
+        "input": "email input placeholder", 
+        "button": { 
+          "text": "SUBSCRIBE", 
+          "style": "bg-foreground text-background rounded-full px-8 py-3", 
+          "animations": { 
+            "hover": "scale 1.03", 
+            "tap": "scale 0.98" 
+          } 
+        }, 
+        "backendIntegration": "Replace with newsletter signup API (e.g., Mailchimp)" 
+      } 
+    } 
+  }, 
+  "placeholders": { 
+    "VIDEO_URL_HERE.mp4": "Replace with your chosen background video", 
+    "avatar-1.png, avatar-2.png, avatar-3.png": "Replace with your actual avatar images", 
+    "YOUR_HEADLINE_HERE": "Replace with your brand headline", 
+    "ACCENT_WORD_HERE": "Replace with your italic accent word", 
+    "YOUR_TAGLINE_OR_MISSION_STATEMENT_HERE": "Replace with your 
+tagline/subtitle", 
+    "X,XXX+ people already subscribed": "Replace with your real or aspirational subscriber 
+count" 
+  } 
+} 
+ 
+ 

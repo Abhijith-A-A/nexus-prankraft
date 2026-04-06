@@ -1,0 +1,2183 @@
+
+===== C:\Users\Abhijith\.gemini\antigravity\global_skills\ideation\SKILL.md =====
+
+[38;5;250mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓòù  ΓûêΓûêΓòùΓûêΓûêΓòùΓûêΓûêΓòù     ΓûêΓûêΓòù     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;248mΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥ΓûêΓûêΓòæ ΓûêΓûêΓòöΓò¥ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+[38;5;245mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓòöΓò¥ ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;243mΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæΓûêΓûêΓòöΓòÉΓûêΓûêΓòù ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæ[0m
+[38;5;240mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæΓûêΓûêΓòæ  ΓûêΓûêΓòùΓûêΓûêΓòæΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæ[0m
+[38;5;238mΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓò¥  ΓòÜΓòÉΓò¥ΓòÜΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145mborghei/claude-skills@product-designer[0m [36m2.5K installs[0m
+[38;5;102mΓöö https://skills.sh/borghei/claude-skills/product-designer[0m
+
+[38;5;145mmelodic-software/claude-code-plugins@design-thinking[0m [36m146 installs[0m
+[38;5;102mΓöö https://skills.sh/melodic-software/claude-code-plugins/design-thinking[0m
+
+[38;5;145mborghei/claude-skills@brainstorm-ideas[0m [36m35 installs[0m
+[38;5;102mΓöö https://skills.sh/borghei/claude-skills/brainstorm-ideas[0m
+
+[38;5;145msickn33/antigravity-awesome-skills@product-inventor[0m [36m33 installs[0m
+[38;5;102mΓöö https://skills.sh/sickn33/antigravity-awesome-skills/product-inventor[0m
+
+[38;5;145mneurofoo/agent-skills@design[0m [36m24 installs[0m
+[38;5;102mΓöö https://skills.sh/neurofoo/agent-skills/design[0m
+
+[38;5;145malexei-led/claude-code-config@brainstorming-ideas[0m [36m18 installs[0m
+[38;5;102mΓöö https://skills.sh/alexei-led/claude-code-config/brainstorming-ideas[0m
+
+
+
+===== C:\Users\Abhijith\.gemini\antigravity\global_skills\brainstorm\SKILL.md =====
+
+[38;5;250mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓòù  ΓûêΓûêΓòùΓûêΓûêΓòùΓûêΓûêΓòù     ΓûêΓûêΓòù     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;248mΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥ΓûêΓûêΓòæ ΓûêΓûêΓòöΓò¥ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+[38;5;245mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓòöΓò¥ ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;243mΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæΓûêΓûêΓòöΓòÉΓûêΓûêΓòù ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæ[0m
+[38;5;240mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæΓûêΓûêΓòæ  ΓûêΓûêΓòùΓûêΓûêΓòæΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæ[0m
+[38;5;238mΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓò¥  ΓòÜΓòÉΓò¥ΓòÜΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145mdavila7/claude-code-templates@scientific-brainstorming[0m [36m462 installs[0m
+[38;5;102mΓöö https://skills.sh/davila7/claude-code-templates/scientific-brainstorming[0m
+
+[38;5;145mjohnlindquist/claude@brainstorm[0m [36m160 installs[0m
+[38;5;102mΓöö https://skills.sh/johnlindquist/claude/brainstorm[0m
+
+[38;5;145mneurofoo/agent-skills@scamper[0m [36m44 installs[0m
+[38;5;102mΓöö https://skills.sh/neurofoo/agent-skills/scamper[0m
+
+[38;5;145movachiever/droid-tings@scientific-brainstorming[0m [36m28 installs[0m
+[38;5;102mΓöö https://skills.sh/ovachiever/droid-tings/scientific-brainstorming[0m
+
+[38;5;145msmithery.ai@scientific-brainstorming[0m [36m24 installs[0m
+[38;5;102mΓöö https://skills.sh/smithery.ai/scientific-brainstorming[0m
+
+[38;5;145mdrshailesh88/integrated_content_os@scientific-brainstorming[0m [36m12 installs[0m
+[38;5;102mΓöö https://skills.sh/drshailesh88/integrated_content_os/scientific-brainstorming[0m
+
+
+
+===== C:\Users\Abhijith\.gemini\antigravity\global_skills\ux\SKILL.md =====
+
+[38;5;250mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓòù  ΓûêΓûêΓòùΓûêΓûêΓòùΓûêΓûêΓòù     ΓûêΓûêΓòù     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;248mΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥ΓûêΓûêΓòæ ΓûêΓûêΓòöΓò¥ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+[38;5;245mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓòöΓò¥ ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;243mΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæΓûêΓûêΓòöΓòÉΓûêΓûêΓòù ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæ[0m
+[38;5;240mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæΓûêΓûêΓòæ  ΓûêΓûêΓòùΓûêΓûêΓòæΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæ[0m
+[38;5;238mΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓò¥  ΓòÜΓòÉΓò¥ΓòÜΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145mvasilyu1983/ai-agents-public@software-ui-ux-design[0m [36m264 installs[0m
+[38;5;102mΓöö https://skills.sh/vasilyu1983/ai-agents-public/software-ui-ux-design[0m
+
+[38;5;145mcarmahhawwari/ui-design-brain@ui-design-brain[0m [36m132 installs[0m
+[38;5;102mΓöö https://skills.sh/carmahhawwari/ui-design-brain/ui-design-brain[0m
+
+[38;5;145mpascalorg/skills@web-design[0m [36m24 installs[0m
+[38;5;102mΓöö https://skills.sh/pascalorg/skills/web-design[0m
+
+[38;5;145mcloudai-x/claude-workflow@web-design-guidelines[0m [36m15 installs[0m
+[38;5;102mΓöö https://skills.sh/cloudai-x/claude-workflow/web-design-guidelines[0m
+
+[38;5;145mdereknex/skills@web-guidelines[0m [36m11 installs[0m
+[38;5;102mΓöö https://skills.sh/dereknex/skills/web-guidelines[0m
+
+[38;5;145mteenmeem/agent-skills@website-ui-ux-engineer[0m [36m9 installs[0m
+[38;5;102mΓöö https://skills.sh/teenmeem/agent-skills/website-ui-ux-engineer[0m
+
+
+
+===== C:\Users\Abhijith\.gemini\antigravity\global_skills\animation\SKILL.md =====
+
+[38;5;250mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓòù  ΓûêΓûêΓòùΓûêΓûêΓòùΓûêΓûêΓòù     ΓûêΓûêΓòù     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;248mΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥ΓûêΓûêΓòæ ΓûêΓûêΓòöΓò¥ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+[38;5;245mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓòöΓò¥ ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;243mΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæΓûêΓûêΓòöΓòÉΓûêΓûêΓòù ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæ[0m
+[38;5;240mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæΓûêΓûêΓòæ  ΓûêΓûêΓòùΓûêΓûêΓòæΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæ[0m
+[38;5;238mΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓò¥  ΓòÜΓòÉΓò¥ΓòÜΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145mdevmartinese/awwwards-animations-skill@awwwards-animations[0m [36m555 installs[0m
+[38;5;102mΓöö https://skills.sh/devmartinese/awwwards-animations-skill/awwwards-animations[0m
+
+[38;5;145msickn33/antigravity-awesome-skills@frontend-slides[0m [36m248 installs[0m
+[38;5;102mΓöö https://skills.sh/sickn33/antigravity-awesome-skills/frontend-slides[0m
+
+[38;5;145mconnorads/dotfiles@web-animation-design[0m [36m234 installs[0m
+[38;5;102mΓöö https://skills.sh/connorads/dotfiles/web-animation-design[0m
+
+[38;5;145mjulianromli/ai-skills@frontend-ui-animator[0m [36m216 installs[0m
+[38;5;102mΓöö https://skills.sh/julianromli/ai-skills/frontend-ui-animator[0m
+
+[38;5;145mhaniakrim21/everything-claude-code@react-bits[0m [36m22 installs[0m
+[38;5;102mΓöö https://skills.sh/haniakrim21/everything-claude-code/react-bits[0m
+
+[38;5;145mpetbrains/mvp-builder@frontend-lottie[0m [36m11 installs[0m
+[38;5;102mΓöö https://skills.sh/petbrains/mvp-builder/frontend-lottie[0m
+
+
+
+===== C:\Users\Abhijith\.gemini\antigravity\global_skills\gamification\SKILL.md =====
+
+[38;5;250mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓòù  ΓûêΓûêΓòùΓûêΓûêΓòùΓûêΓûêΓòù     ΓûêΓûêΓòù     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;248mΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥ΓûêΓûêΓòæ ΓûêΓûêΓòöΓò¥ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓòöΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+[38;5;245mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓòöΓò¥ ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòù[0m
+[38;5;243mΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæΓûêΓûêΓòöΓòÉΓûêΓûêΓòù ΓûêΓûêΓòæΓûêΓûêΓòæ     ΓûêΓûêΓòæ     ΓòÜΓòÉΓòÉΓòÉΓòÉΓûêΓûêΓòæ[0m
+[38;5;240mΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæΓûêΓûêΓòæ  ΓûêΓûêΓòùΓûêΓûêΓòæΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòùΓûêΓûêΓûêΓûêΓûêΓûêΓûêΓòæ[0m
+[38;5;238mΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓò¥  ΓòÜΓòÉΓò¥ΓòÜΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥ΓòÜΓòÉΓòÉΓòÉΓòÉΓòÉΓòÉΓò¥[0m
+
+[38;5;102mInstall with[0m npx skills add <owner/repo@skill>
+
+[38;5;145m404kidwiz/claude-supercode-skills@game-developer[0m [36m190 installs[0m
+[38;5;102mΓöö https://skills.sh/404kidwiz/claude-supercode-skills/game-developer[0m
+
+[38;5;145momer-metin/skills-for-antigravity@game-design-core[0m [36m164 installs[0m
+[38;5;102mΓöö https://skills.sh/omer-metin/skills-for-antigravity/game-design-core[0m
+
+[38;5;145momer-metin/skills-for-antigravity@game-audio[0m [36m107 installs[0m
+[38;5;102mΓöö https://skills.sh/omer-metin/skills-for-antigravity/game-audio[0m
+
+[38;5;145mdylantarre/animation-principles@gaming-entertainment[0m [36m75 installs[0m
+[38;5;102mΓöö https://skills.sh/dylantarre/animation-principles/gaming-entertainment[0m
+
+[38;5;145mthedivergentai/gd-agentic-skills@godot-genre-educational[0m [36m59 installs[0m
+[38;5;102mΓöö https://skills.sh/thedivergentai/gd-agentic-skills/godot-genre-educational[0m
+
+[38;5;145momer-metin/skills-for-antigravity@game-design[0m [36m48 installs[0m
+[38;5;102mΓöö https://skills.sh/omer-metin/skills-for-antigravity/game-design[0m
+
+
+
+===== C:\Users\Abhijith\.agents\skills\brainstorming\SKILL.md =====
+---
+name: brainstorming
+description: "You MUST use this before any creative work - creating features, building components, adding functionality, or modifying behavior. Explores user intent, requirements and design before implementation."
+---
+
+# Brainstorming Ideas Into Designs
+
+Help turn ideas into fully formed designs and specs through natural collaborative dialogue.
+
+Start by understanding the current project context, then ask questions one at a time to refine the idea. Once you understand what you're building, present the design and get user approval.
+
+<HARD-GATE>
+Do NOT invoke any implementation skill, write any code, scaffold any project, or take any implementation action until you have presented a design and the user has approved it. This applies to EVERY project regardless of perceived simplicity.
+</HARD-GATE>
+
+## Anti-Pattern: "This Is Too Simple To Need A Design"
+
+Every project goes through this process. A todo list, a single-function utility, a config change — all of them. "Simple" projects are where unexamined assumptions cause the most wasted work. The design can be short (a few sentences for truly simple projects), but you MUST present it and get approval.
+
+## Checklist
+
+You MUST create a task for each of these items and complete them in order:
+
+1. **Explore project context** — check files, docs, recent commits
+2. **Offer visual companion** (if topic will involve visual questions) — this is its own message, not combined with a clarifying question. See the Visual Companion section below.
+3. **Ask clarifying questions** — one at a time, understand purpose/constraints/success criteria
+4. **Propose 2-3 approaches** — with trade-offs and your recommendation
+5. **Present design** — in sections scaled to their complexity, get user approval after each section
+6. **Write design doc** — save to `docs/superpowers/specs/YYYY-MM-DD-<topic>-design.md` and commit
+7. **Spec self-review** — quick inline check for placeholders, contradictions, ambiguity, scope (see below)
+8. **User reviews written spec** — ask user to review the spec file before proceeding
+9. **Transition to implementation** — invoke writing-plans skill to create implementation plan
+
+## Process Flow
+
+```dot
+digraph brainstorming {
+    "Explore project context" [shape=box];
+    "Visual questions ahead?" [shape=diamond];
+    "Offer Visual Companion\n(own message, no other content)" [shape=box];
+    "Ask clarifying questions" [shape=box];
+    "Propose 2-3 approaches" [shape=box];
+    "Present design sections" [shape=box];
+    "User approves design?" [shape=diamond];
+    "Write design doc" [shape=box];
+    "Spec self-review\n(fix inline)" [shape=box];
+    "User reviews spec?" [shape=diamond];
+    "Invoke writing-plans skill" [shape=doublecircle];
+
+    "Explore project context" -> "Visual questions ahead?";
+    "Visual questions ahead?" -> "Offer Visual Companion\n(own message, no other content)" [label="yes"];
+    "Visual questions ahead?" -> "Ask clarifying questions" [label="no"];
+    "Offer Visual Companion\n(own message, no other content)" -> "Ask clarifying questions";
+    "Ask clarifying questions" -> "Propose 2-3 approaches";
+    "Propose 2-3 approaches" -> "Present design sections";
+    "Present design sections" -> "User approves design?";
+    "User approves design?" -> "Present design sections" [label="no, revise"];
+    "User approves design?" -> "Write design doc" [label="yes"];
+    "Write design doc" -> "Spec self-review\n(fix inline)";
+    "Spec self-review\n(fix inline)" -> "User reviews spec?";
+    "User reviews spec?" -> "Write design doc" [label="changes requested"];
+    "User reviews spec?" -> "Invoke writing-plans skill" [label="approved"];
+}
+```
+
+**The terminal state is invoking writing-plans.** Do NOT invoke frontend-design, mcp-builder, or any other implementation skill. The ONLY skill you invoke after brainstorming is writing-plans.
+
+## The Process
+
+**Understanding the idea:**
+
+- Check out the current project state first (files, docs, recent commits)
+- Before asking detailed questions, assess scope: if the request describes multiple independent subsystems (e.g., "build a platform with chat, file storage, billing, and analytics"), flag this immediately. Don't spend questions refining details of a project that needs to be decomposed first.
+- If the project is too large for a single spec, help the user decompose into sub-projects: what are the independent pieces, how do they relate, what order should they be built? Then brainstorm the first sub-project through the normal design flow. Each sub-project gets its own spec → plan → implementation cycle.
+- For appropriately-scoped projects, ask questions one at a time to refine the idea
+- Prefer multiple choice questions when possible, but open-ended is fine too
+- Only one question per message - if a topic needs more exploration, break it into multiple questions
+- Focus on understanding: purpose, constraints, success criteria
+
+**Exploring approaches:**
+
+- Propose 2-3 different approaches with trade-offs
+- Present options conversationally with your recommendation and reasoning
+- Lead with your recommended option and explain why
+
+**Presenting the design:**
+
+- Once you believe you understand what you're building, present the design
+- Scale each section to its complexity: a few sentences if straightforward, up to 200-300 words if nuanced
+- Ask after each section whether it looks right so far
+- Cover: architecture, components, data flow, error handling, testing
+- Be ready to go back and clarify if something doesn't make sense
+
+**Design for isolation and clarity:**
+
+- Break the system into smaller units that each have one clear purpose, communicate through well-defined interfaces, and can be understood and tested independently
+- For each unit, you should be able to answer: what does it do, how do you use it, and what does it depend on?
+- Can someone understand what a unit does without reading its internals? Can you change the internals without breaking consumers? If not, the boundaries need work.
+- Smaller, well-bounded units are also easier for you to work with - you reason better about code you can hold in context at once, and your edits are more reliable when files are focused. When a file grows large, that's often a signal that it's doing too much.
+
+**Working in existing codebases:**
+
+- Explore the current structure before proposing changes. Follow existing patterns.
+- Where existing code has problems that affect the work (e.g., a file that's grown too large, unclear boundaries, tangled responsibilities), include targeted improvements as part of the design - the way a good developer improves code they're working in.
+- Don't propose unrelated refactoring. Stay focused on what serves the current goal.
+
+## After the Design
+
+**Documentation:**
+
+- Write the validated design (spec) to `docs/superpowers/specs/YYYY-MM-DD-<topic>-design.md`
+  - (User preferences for spec location override this default)
+- Use elements-of-style:writing-clearly-and-concisely skill if available
+- Commit the design document to git
+
+**Spec Self-Review:**
+After writing the spec document, look at it with fresh eyes:
+
+1. **Placeholder scan:** Any "TBD", "TODO", incomplete sections, or vague requirements? Fix them.
+2. **Internal consistency:** Do any sections contradict each other? Does the architecture match the feature descriptions?
+3. **Scope check:** Is this focused enough for a single implementation plan, or does it need decomposition?
+4. **Ambiguity check:** Could any requirement be interpreted two different ways? If so, pick one and make it explicit.
+
+Fix any issues inline. No need to re-review — just fix and move on.
+
+**User Review Gate:**
+After the spec review loop passes, ask the user to review the written spec before proceeding:
+
+> "Spec written and committed to `<path>`. Please review it and let me know if you want to make any changes before we start writing out the implementation plan."
+
+Wait for the user's response. If they request changes, make them and re-run the spec review loop. Only proceed once the user approves.
+
+**Implementation:**
+
+- Invoke the writing-plans skill to create a detailed implementation plan
+- Do NOT invoke any other skill. writing-plans is the next step.
+
+## Key Principles
+
+- **One question at a time** - Don't overwhelm with multiple questions
+- **Multiple choice preferred** - Easier to answer than open-ended when possible
+- **YAGNI ruthlessly** - Remove unnecessary features from all designs
+- **Explore alternatives** - Always propose 2-3 approaches before settling
+- **Incremental validation** - Present design, get approval before moving on
+- **Be flexible** - Go back and clarify when something doesn't make sense
+
+## Visual Companion
+
+A browser-based companion for showing mockups, diagrams, and visual options during brainstorming. Available as a tool — not a mode. Accepting the companion means it's available for questions that benefit from visual treatment; it does NOT mean every question goes through the browser.
+
+**Offering the companion:** When you anticipate that upcoming questions will involve visual content (mockups, layouts, diagrams), offer it once for consent:
+> "Some of what we're working on might be easier to explain if I can show it to you in a web browser. I can put together mockups, diagrams, comparisons, and other visuals as we go. This feature is still new and can be token-intensive. Want to try it? (Requires opening a local URL)"
+
+**This offer MUST be its own message.** Do not combine it with clarifying questions, context summaries, or any other content. The message should contain ONLY the offer above and nothing else. Wait for the user's response before continuing. If they decline, proceed with text-only brainstorming.
+
+**Per-question decision:** Even after the user accepts, decide FOR EACH QUESTION whether to use the browser or the terminal. The test: **would the user understand this better by seeing it than reading it?**
+
+- **Use the browser** for content that IS visual — mockups, wireframes, layout comparisons, architecture diagrams, side-by-side visual designs
+- **Use the terminal** for content that is text — requirements questions, conceptual choices, tradeoff lists, A/B/C/D text options, scope decisions
+
+A question about a UI topic is not automatically a visual question. "What does personality mean in this context?" is a conceptual question — use the terminal. "Which wizard layout works better?" is a visual question — use the browser.
+
+If they agree to the companion, read the detailed guide before proceeding:
+`skills/brainstorming/visual-companion.md`
+
+
+===== C:\Users\Abhijith\.agents\skills\frontend-design\SKILL.md =====
+---
+name: frontend-design
+description: Create distinctive, production-grade frontend interfaces with high design quality. Use this skill when the user asks to build web components, pages, artifacts, posters, or applications (examples include websites, landing pages, dashboards, React components, HTML/CSS layouts, or when styling/beautifying any web UI). Generates creative, polished code and UI design that avoids generic AI aesthetics.
+license: Complete terms in LICENSE.txt
+---
+
+This skill guides creation of distinctive, production-grade frontend interfaces that avoid generic "AI slop" aesthetics. Implement real working code with exceptional attention to aesthetic details and creative choices.
+
+The user provides frontend requirements: a component, page, application, or interface to build. They may include context about the purpose, audience, or technical constraints.
+
+## Design Thinking
+
+Before coding, understand the context and commit to a BOLD aesthetic direction:
+- **Purpose**: What problem does this interface solve? Who uses it?
+- **Tone**: Pick an extreme: brutally minimal, maximalist chaos, retro-futuristic, organic/natural, luxury/refined, playful/toy-like, editorial/magazine, brutalist/raw, art deco/geometric, soft/pastel, industrial/utilitarian, etc. There are so many flavors to choose from. Use these for inspiration but design one that is true to the aesthetic direction.
+- **Constraints**: Technical requirements (framework, performance, accessibility).
+- **Differentiation**: What makes this UNFORGETTABLE? What's the one thing someone will remember?
+
+**CRITICAL**: Choose a clear conceptual direction and execute it with precision. Bold maximalism and refined minimalism both work - the key is intentionality, not intensity.
+
+Then implement working code (HTML/CSS/JS, React, Vue, etc.) that is:
+- Production-grade and functional
+- Visually striking and memorable
+- Cohesive with a clear aesthetic point-of-view
+- Meticulously refined in every detail
+
+## Frontend Aesthetics Guidelines
+
+Focus on:
+- **Typography**: Choose fonts that are beautiful, unique, and interesting. Avoid generic fonts like Arial and Inter; opt instead for distinctive choices that elevate the frontend's aesthetics; unexpected, characterful font choices. Pair a distinctive display font with a refined body font.
+- **Color & Theme**: Commit to a cohesive aesthetic. Use CSS variables for consistency. Dominant colors with sharp accents outperform timid, evenly-distributed palettes.
+- **Motion**: Use animations for effects and micro-interactions. Prioritize CSS-only solutions for HTML. Use Motion library for React when available. Focus on high-impact moments: one well-orchestrated page load with staggered reveals (animation-delay) creates more delight than scattered micro-interactions. Use scroll-triggering and hover states that surprise.
+- **Spatial Composition**: Unexpected layouts. Asymmetry. Overlap. Diagonal flow. Grid-breaking elements. Generous negative space OR controlled density.
+- **Backgrounds & Visual Details**: Create atmosphere and depth rather than defaulting to solid colors. Add contextual effects and textures that match the overall aesthetic. Apply creative forms like gradient meshes, noise textures, geometric patterns, layered transparencies, dramatic shadows, decorative borders, custom cursors, and grain overlays.
+
+NEVER use generic AI-generated aesthetics like overused font families (Inter, Roboto, Arial, system fonts), cliched color schemes (particularly purple gradients on white backgrounds), predictable layouts and component patterns, and cookie-cutter design that lacks context-specific character.
+
+Interpret creatively and make unexpected choices that feel genuinely designed for the context. No design should be the same. Vary between light and dark themes, different fonts, different aesthetics. NEVER converge on common choices (Space Grotesk, for example) across generations.
+
+**IMPORTANT**: Match implementation complexity to the aesthetic vision. Maximalist designs need elaborate code with extensive animations and effects. Minimalist or refined designs need restraint, precision, and careful attention to spacing, typography, and subtle details. Elegance comes from executing the vision well.
+
+Remember: Claude is capable of extraordinary creative work. Don't hold back, show what can truly be created when thinking outside the box and committing fully to a distinctive vision.
+
+
+===== C:\Users\Abhijith\.agents\skills\narrative-builder\SKILL.md =====
+---
+name: narrative-builder
+description: Transform lessons and insights into compelling short stories with tension, conflict, and clear takeaways. Use when turning a business lesson into a story, writing narrative social posts, or making dry insights engaging through storytelling. Includes story arc templates and micro-story formats for social content.
+triggers:
+  - turn into story
+  - write as narrative
+  - storytelling
+  - story format
+  - make it a story
+allowed-tools: Read Write Edit AskUserQuestion
+---
+
+# Narrative Builder
+
+Transform insights, lessons, and experiences into compelling stories that resonate and stick.
+
+## Why Stories Work
+
+- 22x more memorable than facts alone
+- Trigger emotional engagement
+- Create "that's me" moments
+- Share naturally (people retell stories, not tips)
+
+## The Core Story Arc
+
+Every effective short story follows this beat structure:
+
+```
+HOOK → TENSION → CONFLICT → REVERSAL → TAKEAWAY
+```
+
+| Beat | Purpose | Length |
+|------|---------|--------|
+| Hook | Stop them, create curiosity | 1-2 sentences |
+| Tension | Build stakes, show the gap | 2-3 sentences |
+| Conflict | The struggle, the attempt | 3-5 sentences |
+| Reversal | The shift, insight, or change | 2-3 sentences |
+| Takeaway | The lesson that transfers | 1-2 sentences |
+
+## Story Arc Templates
+
+### The Transformation Arc
+Best for: Personal growth, mindset shifts, career changes
+
+```
+1. WHERE I WAS (the before state)
+   "Two years ago, I was [negative situation]."
+
+2. THE BREAKING POINT (inciting incident)
+   "Then [specific event] happened."
+
+3. THE ATTEMPT (what I tried)
+   "I tried [common solution]. It didn't work because [specific reason]."
+
+4. THE SHIFT (the reversal)
+   "Everything changed when I realized [insight]."
+
+5. WHERE I AM NOW (the after state)
+   "Today, [specific positive result]."
+
+6. THE LESSON (transferable takeaway)
+   "The truth is: [universal principle]."
+```
+
+### The Failure Arc
+Best for: Lessons learned, vulnerability, relatability
+
+```
+1. THE CONFIDENT START
+   "I thought I knew [topic]. I was wrong."
+
+2. THE MISTAKE
+   "Here's what happened: [specific failure]."
+
+3. THE CONSEQUENCE
+   "The result? [concrete negative outcome]."
+
+4. THE REALIZATION
+   "What I finally understood: [insight]."
+
+5. THE RECOVERY
+   "I fixed it by [specific action]."
+
+6. THE LESSON
+   "Now I know: [principle others can use]."
+```
+
+### The Discovery Arc
+Best for: Insights, research findings, "aha" moments
+
+```
+1. THE QUESTION
+   "I always wondered why [observation]."
+
+2. THE INVESTIGATION
+   "So I [researched/asked/experimented]."
+
+3. THE SURPRISE
+   "What I found shocked me: [unexpected finding]."
+
+4. THE EVIDENCE
+   "[Specific data/example supporting the finding]."
+
+5. THE IMPLICATION
+   "This means [what it changes]."
+
+6. THE APPLICATION
+   "Here's how to use this: [actionable step]."
+```
+
+### The Mentor Arc
+Best for: Advice received, wisdom passed down, credibility building
+
+```
+1. THE STRUGGLE
+   "I was stuck on [problem]."
+
+2. THE MENTOR
+   "[Credible person] told me something I'll never forget:"
+
+3. THE ADVICE (as dialogue)
+   "[Exact quote or paraphrase]."
+
+4. THE RESISTANCE
+   "At first, I didn't believe it because [objection]."
+
+5. THE PROOF
+   "Then I tried it. [Specific result]."
+
+6. THE PASS-THROUGH
+   "Now I'm telling you: [the advice, reframed]."
+```
+
+## Emotional Beat Patterns
+
+Stories work through emotional rhythm. Map your beats:
+
+### The Dip Pattern
+```
+Neutral → Down → Further Down → UP → Resolution
+```
+Best for: Comeback stories, resilience narratives
+
+### The Climb Pattern
+```
+Low → Small win → Setback → Bigger win → Peak
+```
+Best for: Growth stories, skill acquisition
+
+### The Revelation Pattern
+```
+Confident → Challenged → Confused → Clarity → Changed
+```
+Best for: Mindset shifts, "unlearning" stories
+
+### The Stakes Pattern
+```
+Normal → Risk → Near-failure → Last-minute save → Lesson
+```
+Best for: High-stakes decisions, pivotal moments
+
+## Opening Hook Formulas
+
+### The Moment Hook
+Drop into a specific scene:
+```
+"I was sitting in [specific location] when [event] happened."
+"The email arrived at 11:47 PM."
+"Three words changed everything: [the three words]."
+```
+
+### The Contrast Hook
+Before/after juxtaposition:
+```
+"Last year: [bad state]. Today: [good state]. Here's what changed."
+"Everyone said [common belief]. They were wrong."
+"I used to think [old belief]. Then I learned [new truth]."
+```
+
+### The Confession Hook
+Vulnerability that creates connection:
+```
+"I almost quit [thing] last month. Here's why I didn't."
+"I made a $[X] mistake. Here's the lesson."
+"Nobody knows this, but [vulnerable truth]."
+```
+
+### The Question Hook
+Curiosity that demands answers:
+```
+"What do [successful person] and [unlikely comparison] have in common?"
+"Why do 90% of [people] fail at [thing]?"
+"Ever wonder why [counterintuitive observation]?"
+```
+
+### The Dialogue Hook
+Start with spoken words:
+```
+"'You're doing it wrong,' she said."
+"'That's never going to work.' I heard it constantly."
+"My mentor asked: '[Provocative question]?'"
+```
+
+## Specificity Rules
+
+Vague stories don't land. Use concrete details:
+
+| Vague | Specific |
+|-------|----------|
+| "A while ago" | "October 17th, 2024" |
+| "Made good money" | "Cleared $23,400" |
+| "Felt bad" | "My chest tightened" |
+| "Said something mean" | "Called me a fraud" |
+| "A company" | "A Series B startup in Austin" |
+| "Worked hard" | "14-hour days for 6 weeks" |
+| "Things improved" | "Revenue doubled in 90 days" |
+
+**Rule:** If you can visualize it, readers can feel it.
+
+## Show vs. Tell
+
+### Emotions
+**Tell:** "I was frustrated."
+**Show:** "I slammed my laptop shut. Third rejection that week."
+
+### Character
+**Tell:** "She was supportive."
+**Show:** "'Keep going,' she said, sliding her coffee across the table. 'You've got this.'"
+
+### Change
+**Tell:** "My perspective shifted."
+**Show:** "I deleted the 47-slide deck. Started with a blank page. Three questions."
+
+## First-Person vs. Third-Person
+
+| Use First-Person When | Use Third-Person When |
+|----------------------|----------------------|
+| Building personal brand | Teaching frameworks |
+| Vulnerability is the point | The lesson is the star |
+| "This happened to me" | "This works universally" |
+| Creating parasocial connection | Establishing credibility through others |
+
+**First-person example:**
+"I failed my first launch. Zero sales. Here's what I learned..."
+
+**Third-person example:**
+"Sarah had zero email list when she started. 18 months later, 47,000 subscribers. Here's her exact playbook..."
+
+## Micro-Story Formats
+
+### The 5-Sentence Story
+For tweets, captions, quick posts:
+```
+1. The hook (situation)
+2. The problem (what went wrong)
+3. The turn (the shift)
+4. The result (what changed)
+5. The lesson (the takeaway)
+```
+
+**Example:**
+"Last year I pitched 12 clients. Zero closed. Then I stopped selling features and started asking questions. Next quarter: 8 out of 10 closed. Lesson: Discovery beats pitching."
+
+### The 3-Beat Micro-Story
+Minimum viable story:
+```
+1. Before state + inciting incident
+2. The struggle + the shift
+3. After state + lesson
+```
+
+**Example:**
+"Burned out, I almost quit my business. One conversation with a mentor changed everything—'What if you only did the 20% that mattered?' Now I work 25 hours/week and make more than before."
+
+### The Caption Story
+For Instagram/LinkedIn posts:
+```
+Line 1: Hook (stop the scroll)
+Line 2: Empty line
+Line 3-5: The setup (context + tension)
+Line 6: Empty line
+Line 7-9: The conflict (the struggle)
+Line 10: Empty line
+Line 11-12: The reversal (the shift)
+Line 13: Empty line
+Line 14-15: The lesson (transferable insight)
+```
+
+## Story Mining Questions
+
+When extracting stories from experiences:
+
+1. **What changed?** (Every story needs transformation)
+2. **What did you believe before that you don't believe now?**
+3. **What was the specific moment things shifted?**
+4. **What would you tell yourself before this happened?**
+5. **What's the one-line lesson?**
+
+## Common Mistakes
+
+### The Lesson First
+**Wrong:** "Here's why you should do X. Let me tell you a story..."
+**Right:** [Story first] → "Here's what this taught me..."
+
+### No Stakes
+**Wrong:** "I tried a new approach. It worked."
+**Right:** "If this didn't work, I'd have to [consequence]. I tried anyway..."
+
+### Too Many Lessons
+**Wrong:** "This taught me A, B, C, D, and E."
+**Right:** "One lesson: [single clear takeaway]."
+
+### Generic Details
+**Wrong:** "I was at a conference when..."
+**Right:** "Back row of a freezing hotel ballroom in Chicago, 8:47 AM..."
+
+### Skipping the Struggle
+**Wrong:** "I had a problem. I fixed it. Lesson learned."
+**Right:** "First I tried X. Failed. Then Y. Worse. Finally, Z worked because..."
+
+## Output Format
+
+When building a narrative, present as:
+
+```markdown
+## Story: [Working Title]
+
+**Arc Type:** [Transformation/Failure/Discovery/Mentor]
+**Emotional Pattern:** [Dip/Climb/Revelation/Stakes]
+**Target Format:** [Tweet/Post/Article/Email]
+**Point of View:** [First-person/Third-person]
+
+---
+
+### The Story
+
+[Full narrative with clear beat markers]
+
+---
+
+### Beat Breakdown
+
+| Beat | Content | Emotion |
+|------|---------|---------|
+| Hook | [1-2 sentences] | [Target emotion] |
+| Tension | [2-3 sentences] | [Target emotion] |
+| Conflict | [3-5 sentences] | [Target emotion] |
+| Reversal | [2-3 sentences] | [Target emotion] |
+| Takeaway | [1-2 sentences] | [Target emotion] |
+
+---
+
+### Transferable Lesson
+[The one-line insight readers can apply]
+
+---
+
+### Story Variants
+- **Tweet version:** [5 sentences]
+- **Full version:** [Expanded for blog/email]
+```
+
+## Quick Reference
+
+**Story checklist:**
+- [ ] Hook creates curiosity in first line
+- [ ] Stakes are clear (what's at risk?)
+- [ ] Specific details (dates, numbers, places)
+- [ ] Show emotions, don't tell
+- [ ] Clear before/after transformation
+- [ ] Single, transferable lesson
+- [ ] Ends with reader-applicable insight
+
+
+===== C:\Users\Abhijith\.agents\skills\motion-designer\SKILL.md =====
+---
+name: motion-designer
+description: Advanced motion designer with decades of After Effects and motion graphics experience, specialized in creating engaging video specifications for Remotion. Use when creating video specs, planning motion graphics, designing animations, or when asked to "create a video", "design motion graphics", "plan video content", or "spec out a video". Produces detailed scene-by-scene specifications with timing, audio, sound effects, and animation descriptions.
+---
+
+# Motion Designer
+
+Expert motion design guidance for creating compelling, engaging videos. This skill provides decades of After Effects and motion graphics knowledge applied to Remotion video specifications.
+
+## Philosophy
+
+Great motion design combines three elements:
+
+1. **Visual storytelling** — Every frame serves the narrative
+2. **Rhythmic timing** — Motion follows natural rhythms and music beats
+3. **Emotional resonance** — Design choices evoke intended feelings
+
+## How This Skill Works
+
+When invoked, this skill guides you through creating detailed video specifications that include:
+
+- **Scene-by-scene breakdowns** — Complete description of every visual element
+- **Timing and pacing** — Precise frame timing for all animations and transitions
+- **Audio strategy** — Background music recommendations with mood and energy level
+- **Sound effect placement** — Specific SFX with exact timing and purpose
+- **Transition design** — How scenes connect and flow
+- **Visual hierarchy** — What viewers should focus on at each moment
+
+The output is a comprehensive specification document that works seamlessly with `/remotion-best-practices` for implementation.
+
+## Core Frameworks
+
+### The 12 Principles of Animation (Disney)
+
+1. **Squash and Stretch** — Gives weight and flexibility
+2. **Anticipation** — Prepares the audience for action
+3. **Staging** — Directs attention to most important elements
+4. **Straight Ahead vs Pose-to-Pose** — Two animation approaches
+5. **Follow Through and Overlapping Action** — Natural motion continues
+6. **Slow In and Slow Out** — Easing creates realistic movement
+7. **Arcs** — Natural movement follows curved paths
+8. **Secondary Action** — Supporting details add life
+9. **Timing** — Speed creates personality and mood
+10. **Exaggeration** — Pushes reality for impact
+11. **Solid Drawing** — Three-dimensional forms
+12. **Appeal** — Design is engaging and pleasing
+
+### Motion Design Arc
+
+Every engaging video follows an emotional arc:
+
+```
+Hook (0-5s)     → Grab attention immediately
+Build (5-30s)   → Establish context and build interest
+Peak (30-70s)   → Deliver main message with maximum impact
+Resolve (70-90s) → Satisfying conclusion and call-to-action
+```
+
+### Audio Design Layers
+
+Professional motion graphics use layered audio:
+
+1. **Background Music** — Sets mood and energy (40-60% volume)
+2. **Sound Effects** — Emphasizes actions and transitions (60-80% volume)
+3. **Ambient Texture** — Subtle background presence (20-30% volume)
+4. **Voiceover/Dialog** — If applicable (80-100% volume)
+
+### Timing Theory
+
+Motion graphics timing follows natural rhythms:
+
+- **24-30 FPS** — Standard video frame rates
+- **2-frame rule** — Minimum duration for something to register
+- **0.3s (9 frames)** — Minimum for comfortable reading
+- **0.5s (15 frames)** — Sweet spot for UI micro-interactions
+- **1-2s** — Comfortable transition duration
+- **3-5s** — Scene duration for complex information
+- **8-12s** — Maximum attention span without change
+
+## Video Specification Format
+
+When creating a video spec, use this structure:
+
+### 1. Overview
+- **Title** — Clear, descriptive name
+- **Duration** — Total length in seconds
+- **Dimensions** — Width x height (typically 1920x1080)
+- **Frame Rate** — 30 fps (standard)
+- **Style** — Visual aesthetic description
+- **Mood** — Emotional tone
+
+### 2. Audio Strategy
+- **Background Music**
+  - Style/genre
+  - Mood and energy level
+  - Key moments to sync with
+  - Volume envelope (fades, ducks)
+- **Sound Effects**
+  - List of all SFX needed
+  - Timing for each (in seconds)
+  - Purpose of each effect
+
+### 3. Scene Breakdown
+
+For each scene, specify:
+
+```markdown
+## Scene N: [Name] (Xs - Ys, Duration: Zs)
+
+**Visual Description:**
+[Detailed description of every element, position, color, size, typography]
+
+**Animation Details:**
+- Element 1: [entrance/behavior] from Xs to Ys
+- Element 2: [movement/transform] from Xs to Ys
+- Element 3: [exit/transition] from Xs to Ys
+
+**Timing:**
+- Frame 0-30: [what happens]
+- Frame 30-60: [what happens]
+- Frame 60-90: [what happens]
+
+**Audio:**
+- Background music: [volume level, mood]
+- SFX at Xs: [effect description]
+- SFX at Ys: [effect description]
+
+**Transitions:**
+[How this scene transitions to the next]
+
+**Focus Points:**
+[What should draw viewer attention]
+```
+
+### 4. Technical Specifications
+
+Include Remotion-specific guidance:
+
+- Composition dimensions and FPS
+- Color palette (hex codes)
+- Typography (fonts, sizes, weights)
+- Animation types (spring, interpolate, easing)
+- Spring configurations for different effects
+- Asset requirements (images, icons, etc.)
+
+## Integration with Remotion Best Practices
+
+This skill produces specifications that map directly to Remotion implementation:
+
+- **Scene descriptions** → Remotion `<Sequence>` components
+- **Timing details** → Frame-based animation with `useCurrentFrame()`
+- **Animation details** → `spring()` and `interpolate()` configurations
+- **Audio placements** → `<Audio>` components with timing
+- **Transitions** → Transition patterns from remotion-best-practices
+
+After creating a spec with this skill, use `/remotion-best-practices` to implement it.
+
+## Common Video Types
+
+| Type | Duration | Structure | Key Elements |
+|------|----------|-----------|--------------|
+| **Micro-interaction** | 1-3s | Single action | Fast, snappy, clear feedback |
+| **Explainer intro** | 5-10s | Hook + tease | Bold text, simple concept |
+| **Product demo** | 15-30s | Problem → Solution | Show, don't tell |
+| **Feature showcase** | 30-60s | Build → Peak → CTA | Multiple scenes, transitions |
+| **Brand story** | 60-120s | Arc structure | Emotional journey |
+| **Tutorial** | 2-5min | Step-by-step | Clear progression, pauses |
+
+## Sound Effect Categories
+
+### UI/Interaction
+- **Whoosh** — Transitions, reveals
+- **Pop** — Buttons, checkmarks, success
+- **Click** — Selections, interactions
+- **Swoosh** — Fast movements, swipes
+
+### Emphasis
+- **Impact** — Important moments, reveals
+- **Boom** — Big reveals, launches
+- **Ding** — Achievements, completions
+- **Chime** — Notifications, alerts
+
+### Ambient
+- **Hum** — Background technology feel
+- **Texture** — Subtle atmosphere
+- **Riser** — Building anticipation
+- **Reverb tail** — Spacious, dramatic
+
+## Anti-Patterns
+
+- **Random easing** — Every animation should have intentional timing
+- **Over-animation** — Not everything needs to bounce
+- **Unclear hierarchy** — Viewer shouldn't guess where to look
+- **Mismatched audio** — Sound must reinforce visuals
+- **No breathing room** — Scenes need space to land
+- **Inconsistent style** — Visual language should be coherent
+- **Ignoring story arc** — Even abstract videos need flow
+
+## Quality Checklist
+
+Before finalizing a video spec:
+
+- [ ] Clear visual hierarchy in every scene
+- [ ] Timing follows natural rhythms
+- [ ] Audio supports and enhances visuals
+- [ ] Sound effects emphasize key moments
+- [ ] Transitions feel smooth and purposeful
+- [ ] Story arc is clear (hook → build → peak → resolve)
+- [ ] Technical specs are complete for implementation
+- [ ] Every element serves the narrative
+- [ ] Pacing matches content complexity
+- [ ] Ending has satisfying resolution
+
+## Expert Tips
+
+### Timing
+- Action should land on music beats when possible
+- Use the "rule of thirds" for timing: 1/3 anticipation, 1/3 action, 1/3 follow-through
+- Vary timing to create rhythm (avoid mechanical repetition)
+
+### Visual Design
+- Use contrast to guide attention (color, size, motion)
+- Limit palette to 3-5 colors for cohesion
+- Typography hierarchy: headline → subhead → body
+- White space is a design element, not empty space
+
+### Audio Design
+- Duck background music when SFX play (-6dB to -12dB)
+- Layer 2-3 SFX for rich, full sound
+- Use silence strategically for impact
+- Fade in/out music, don't hard cut
+
+### Animation
+- Spring animations feel natural (damping: 200 for smooth, 20 for bouncy)
+- Use easing for mechanical UI elements
+- Group animations: stagger by 5-10 frames for flow
+- Exit animations should be faster than entrances (3:2 ratio)
+
+## When to Consult Rules
+
+For detailed guidance on specific aspects:
+
+- [rules/scene-composition.md](rules/scene-composition.md) — Visual hierarchy and staging
+- [rules/timing-pacing.md](rules/timing-pacing.md) — Frame timing and rhythm
+- [rules/audio-design.md](rules/audio-design.md) — Music and audio strategy
+- [rules/sound-effects.md](rules/sound-effects.md) — SFX selection and placement
+- [rules/transitions.md](rules/transitions.md) — Scene transitions and flow
+- [rules/visual-hierarchy.md](rules/visual-hierarchy.md) — Directing attention
+- [rules/storytelling-flow.md](rules/storytelling-flow.md) — Narrative structure
+- [rules/camera-movement.md](rules/camera-movement.md) — Virtual camera techniques
+
+
+===== C:\Users\Abhijith\.agents\skills\copywriting\SKILL.md =====
+---
+name: copywriting
+description: When the user wants to write, rewrite, or improve marketing copy for any page — including homepage, landing pages, pricing pages, feature pages, about pages, or product pages. Also use when the user says "write copy for," "improve this copy," "rewrite this page," "marketing copy," "headline help," "CTA copy," "value proposition," "tagline," "subheadline," "hero section copy," "above the fold," "this copy is weak," "make this more compelling," or "help me describe my product." Use this whenever someone is working on website text that needs to persuade or convert. For email copy, see email-sequence. For popup copy, see popup-cro. For editing existing copy, see copy-editing.
+metadata:
+  version: 1.1.0
+---
+
+# Copywriting
+
+You are an expert conversion copywriter. Your goal is to write marketing copy that is clear, compelling, and drives action.
+
+## Before Writing
+
+**Check for product marketing context first:**
+If `.agents/product-marketing-context.md` exists (or `.claude/product-marketing-context.md` in older setups), read it before asking questions. Use that context and only ask for information not already covered or specific to this task.
+
+Gather this context (ask if not provided):
+
+### 1. Page Purpose
+- What type of page? (homepage, landing page, pricing, feature, about)
+- What is the ONE primary action you want visitors to take?
+
+### 2. Audience
+- Who is the ideal customer?
+- What problem are they trying to solve?
+- What objections or hesitations do they have?
+- What language do they use to describe their problem?
+
+### 3. Product/Offer
+- What are you selling or offering?
+- What makes it different from alternatives?
+- What's the key transformation or outcome?
+- Any proof points (numbers, testimonials, case studies)?
+
+### 4. Context
+- Where is traffic coming from? (ads, organic, email)
+- What do visitors already know before arriving?
+
+---
+
+## Copywriting Principles
+
+### Clarity Over Cleverness
+If you have to choose between clear and creative, choose clear.
+
+### Benefits Over Features
+Features: What it does. Benefits: What that means for the customer.
+
+### Specificity Over Vagueness
+- Vague: "Save time on your workflow"
+- Specific: "Cut your weekly reporting from 4 hours to 15 minutes"
+
+### Customer Language Over Company Language
+Use words your customers use. Mirror voice-of-customer from reviews, interviews, support tickets.
+
+### One Idea Per Section
+Each section should advance one argument. Build a logical flow down the page.
+
+---
+
+## Writing Style Rules
+
+### Core Principles
+
+1. **Simple over complex** — "Use" not "utilize," "help" not "facilitate"
+2. **Specific over vague** — Avoid "streamline," "optimize," "innovative"
+3. **Active over passive** — "We generate reports" not "Reports are generated"
+4. **Confident over qualified** — Remove "almost," "very," "really"
+5. **Show over tell** — Describe the outcome instead of using adverbs
+6. **Honest over sensational** — Fabricated statistics or testimonials erode trust and create legal liability
+
+### Quick Quality Check
+
+- Jargon that could confuse outsiders?
+- Sentences trying to do too much?
+- Passive voice constructions?
+- Exclamation points? (remove them)
+- Marketing buzzwords without substance?
+
+For thorough line-by-line review, use the **copy-editing** skill after your draft.
+
+---
+
+## Best Practices
+
+### Be Direct
+Get to the point. Don't bury the value in qualifications.
+
+❌ Slack lets you share files instantly, from documents to images, directly in your conversations
+
+✅ Need to share a screenshot? Send as many documents, images, and audio files as your heart desires.
+
+### Use Rhetorical Questions
+Questions engage readers and make them think about their own situation.
+- "Hate returning stuff to Amazon?"
+- "Tired of chasing approvals?"
+
+### Use Analogies When Helpful
+Analogies make abstract concepts concrete and memorable.
+
+### Pepper in Humor (When Appropriate)
+Puns and wit make copy memorable—but only if it fits the brand and doesn't undermine clarity.
+
+---
+
+## Page Structure Framework
+
+### Above the Fold
+
+**Headline**
+- Your single most important message
+- Communicate core value proposition
+- Specific > generic
+
+**Example formulas:**
+- "{Achieve outcome} without {pain point}"
+- "The {category} for {audience}"
+- "Never {unpleasant event} again"
+- "{Question highlighting main pain point}"
+
+**For comprehensive headline formulas**: See [references/copy-frameworks.md](references/copy-frameworks.md)
+
+**For natural transition phrases**: See [references/natural-transitions.md](references/natural-transitions.md)
+
+**Subheadline**
+- Expands on headline
+- Adds specificity
+- 1-2 sentences max
+
+**Primary CTA**
+- Action-oriented button text
+- Communicate what they get: "Start Free Trial" > "Sign Up"
+
+### Core Sections
+
+| Section | Purpose |
+|---------|---------|
+| Social Proof | Build credibility (logos, stats, testimonials) |
+| Problem/Pain | Show you understand their situation |
+| Solution/Benefits | Connect to outcomes (3-5 key benefits) |
+| How It Works | Reduce perceived complexity (3-4 steps) |
+| Objection Handling | FAQ, comparisons, guarantees |
+| Final CTA | Recap value, repeat CTA, risk reversal |
+
+**For detailed section types and page templates**: See [references/copy-frameworks.md](references/copy-frameworks.md)
+
+---
+
+## CTA Copy Guidelines
+
+**Weak CTAs (avoid):**
+- Submit, Sign Up, Learn More, Click Here, Get Started
+
+**Strong CTAs (use):**
+- Start Free Trial
+- Get [Specific Thing]
+- See [Product] in Action
+- Create Your First [Thing]
+- Download the Guide
+
+**Formula:** [Action Verb] + [What They Get] + [Qualifier if needed]
+
+Examples:
+- "Start My Free Trial"
+- "Get the Complete Checklist"
+- "See Pricing for My Team"
+
+---
+
+## Page-Specific Guidance
+
+### Homepage
+- Serve multiple audiences without being generic
+- Lead with broadest value proposition
+- Provide clear paths for different visitor intents
+
+### Landing Page
+- Single message, single CTA
+- Match headline to ad/traffic source
+- Complete argument on one page
+
+### Pricing Page
+- Help visitors choose the right plan
+- Address "which is right for me?" anxiety
+- Make recommended plan obvious
+
+### Feature Page
+- Connect feature → benefit → outcome
+- Show use cases and examples
+- Clear path to try or buy
+
+### About Page
+- Tell the story of why you exist
+- Connect mission to customer benefit
+- Still include a CTA
+
+---
+
+## Voice and Tone
+
+Before writing, establish:
+
+**Formality level:**
+- Casual/conversational
+- Professional but friendly
+- Formal/enterprise
+
+**Brand personality:**
+- Playful or serious?
+- Bold or understated?
+- Technical or accessible?
+
+Maintain consistency, but adjust intensity:
+- Headlines can be bolder
+- Body copy should be clearer
+- CTAs should be action-oriented
+
+---
+
+## Output Format
+
+When writing copy, provide:
+
+### Page Copy
+Organized by section:
+- Headline, Subheadline, CTA
+- Section headers and body copy
+- Secondary CTAs
+
+### Annotations
+For key elements, explain:
+- Why you made this choice
+- What principle it applies
+
+### Alternatives
+For headlines and CTAs, provide 2-3 options:
+- Option A: [copy] — [rationale]
+- Option B: [copy] — [rationale]
+
+### Meta Content (if relevant)
+- Page title (for SEO)
+- Meta description
+
+---
+
+## Related Skills
+
+- **copy-editing**: For polishing existing copy (use after your draft)
+- **page-cro**: If page structure/strategy needs work, not just copy
+- **email-sequence**: For email copywriting
+- **popup-cro**: For popup and modal copy
+- **ab-test-setup**: To test copy variations
+
+
+===== C:\Users\Abhijith\.agents\skills\conversion-psychology\SKILL.md =====
+---
+name: conversion-psychology
+description: Psychology of conversion for sponsored content. Includes emotional triggers, social proof, scarcity, urgency, and persuasion principles for video marketing. Auto-activates when discussing conversions, emotional triggers, social proof, urgency, scarcity, persuasion, or why people buy. Use when optimizing scripts for conversion or understanding buyer psychology.
+---
+
+# Conversion Psychology for Sponsored Content
+
+## The Core Truth
+
+**95% of purchasing decisions happen subconsciously**, driven by emotions, not logic.
+
+This means:
+- Emotional reactions to marketing are **3x more powerful** than the message itself
+- Emotional videos stick — viewers are **6x more likely to remember them**
+- When people feel a bond with your brand, they're **70% more likely to purchase**
+
+**Implication for scripts**: Lead with emotion, support with logic. Never the reverse.
+
+---
+
+## Key Emotional Triggers
+
+### 1. Joy / Happiness
+- Videos evoking positive emotions are **30% more likely to be shared**
+- Show the transformation, the "after" state
+- Create moments of delight or surprise
+
+### 2. Fear / FOMO
+- Can override a person's entire thought process
+- "Fear of Missing Out" drives immediate action
+- Use ethically — don't manufacture fake fear
+
+### 3. Nostalgia
+- Creates emotional bridge between brand and audience
+- "Remember when..." opens emotional connection
+- Powerful for lifestyle and wellness products
+
+### 4. Belonging
+- We purchase items to feel accepted
+- The need to belong is one of our strongest drives
+- "Join 50,000 people who..." triggers belonging
+
+### 5. Instant Gratification
+- One of the most pleasant triggers for driving sales
+- Emphasize quick results
+- "See results in [short timeframe]"
+
+---
+
+## The Scarcity + Social Proof Combo
+
+### Scarcity Effect
+People assign greater value to limited availability items. Scarcity triggers:
+- FOMO (Fear of Missing Out)
+- Anticipated regret
+- Urgency that overrides normal decision-making
+
+### Social Proof
+People rely on others' actions before making decisions:
+- **64% of consumers** believe genuine reviews are the most effective influencer content
+- Custom discount codes create exclusivity
+- **28% of consumers** actively motivated by exclusive deal codes
+
+### The Power Combo
+Combining scarcity with social proof creates a dual trigger:
+
+> "Over 500 people have registered, only 10 spots remaining!"
+
+This works because:
+1. Social proof (500 people want this)
+2. Scarcity (only 10 left)
+3. Urgency (implied time pressure)
+
+### Ethical Warning
+**Never use fake scarcity.** Audiences detect it, and it destroys credibility long-term.
+
+---
+
+## Making Content Feel Native (Not Salesy)
+
+### Why Native Advertising Works
+- Native ads generate **up to 5x higher engagement** than traditional display
+- They integrate with organic content
+- Influencers cultivate trust, making promotional content credible
+
+### Techniques for Authentic Feel
+
+1. **Work with products you actually use** — audiences detect inauthenticity
+2. **Avoid being too obvious** — meaningful content shouldn't feel like a sales ask
+3. **Match platform style and tone** — study what native content looks like
+4. **Focus on value over sales** — position as helpful, not promotional
+5. **Include honest cons** — perfect reviews feel fake
+
+### The 80/20 Rule
+Maintain **80% value content, 20% promotional** to preserve trust.
+
+---
+
+## Soft Sell vs Hard Sell
+
+### Research Data
+- Soft sell gets **31% positive response** vs hard sell
+- Hard sell has **25% unsubscribe rate** vs 10% for soft sell
+- Drip campaigns (soft sell) see **up to 50% higher conversion**
+
+### When to Use Each
+
+**Soft Sell (Default for Creator Content)**:
+- Cold audiences / new viewers
+- Building trust and brand awareness
+- Long-term audience relationships
+- Most sponsored content
+
+**Hard Sell (Use Sparingly)**:
+- Warm audiences who know you
+- Limited-time genuine offers
+- One-shot conversion opportunities
+- Flash sales to engaged followers
+
+### The YETI Example
+Their "Hungry Life" YouTube series uses incredible storytelling without ever mentioning the product. The cooler is depicted but never sold — yet viewers want it anyway.
+
+**Lesson**: Sometimes the softest sell is the strongest.
+
+---
+
+## Conversion Killers
+
+### Script Mistakes That Tank Conversions
+
+1. **Weak hook** — Nothing else matters if they scroll
+2. **Pushing sales too early** — Most viewers aren't ready
+3. **Looking like a sales pitch** — Only pros, superlatives, no authenticity
+4. **Feature dumping** — List one benefit, not five features
+5. **Promoting products you don't believe in** — Audiences can tell
+6. **Generic claims** — "Best ever" means nothing; specifics convert
+
+### Industry Benchmarks
+- Average affiliate conversion rate: **1-3%**
+- Top 10% of earners: **5-10%**
+- The gap comes down to **optimizing every element**
+
+---
+
+## Psychological Principles for Scripts
+
+### 1. The Problem Must Be Felt
+Don't just mention the problem — **agitate it**.
+
+❌ "Oily skin can be annoying"
+✅ "You know that feeling when you look in the mirror at 2pm and your face is literally shiny? Like you've been sweating all day even though you haven't?"
+
+### 2. The Solution Must Be Specific
+Vague benefits don't convert.
+
+❌ "This product really works"
+✅ "After two weeks, I stopped needing to blot my face by lunch"
+
+### 3. Social Proof Must Be Believable
+Over-the-top claims backfire.
+
+❌ "This changed my life forever!"
+✅ "I've been using this for 3 months and my morning routine is actually shorter now"
+
+### 4. Urgency Must Be Real
+Fake urgency destroys trust.
+
+❌ "Only 3 left!" (when there's unlimited inventory)
+✅ "This code expires Friday" (when it actually does)
+
+### 5. The CTA Must Match the Ask
+Don't ask for too much too soon.
+
+❌ "Buy now!" (to cold viewers)
+✅ "Link's in my bio if you want to check it out" (soft, no pressure)
+
+---
+
+## Applying Psychology Ethically
+
+### The Line
+- ✅ Highlighting genuine benefits
+- ✅ Sharing authentic experiences
+- ✅ Using real scarcity (limited codes, actual deadlines)
+- ✅ Connecting emotionally to real problems
+- ❌ Manufacturing fake urgency
+- ❌ Exaggerating results
+- ❌ Making claims you can't verify
+- ❌ Manipulating through fear of fake consequences
+
+### Long-Term Thinking
+Short-term manipulation tactics damage creator credibility. Audiences remember when they felt tricked. The most successful creators build trust over time through authentic recommendations.
+
+---
+
+## Quick Reference: Conversion Checklist
+
+Before publishing any script, verify:
+
+- [ ] Leads with emotion, supports with logic
+- [ ] Hook creates immediate emotional response
+- [ ] Problem section makes viewers FEEL understood
+- [ ] Solution connects to genuine benefit
+- [ ] Social proof is specific and believable
+- [ ] Any scarcity/urgency is real
+- [ ] CTA matches audience warmth level
+- [ ] Sounds like a real person, not a commercial
+- [ ] You would actually say this to a friend
+
+
+===== C:\Users\Abhijith\.agents\skills\storyboard-creation\SKILL.md =====
+---
+name: storyboard-creation
+description: "Film and video storyboarding with shot vocabulary, continuity rules, and panel layout. Covers shot types, camera angles, movement, 180-degree rule, and annotation format. Use for: video planning, film pre-production, ad storyboards, music video planning, animation. Triggers: storyboard, storyboarding, shot list, film planning, video planning, pre production, shot composition, camera angles, scene planning, visual script, animatic, storyboard panels, video storyboard"
+allowed-tools: Bash(infsh *)
+---
+
+# Storyboard Creation
+
+Create visual storyboards with AI image generation via [inference.sh](https://inference.sh) CLI.
+
+## Quick Start
+
+> Requires inference.sh CLI (`infsh`). [Install instructions](https://raw.githubusercontent.com/inference-sh/skills/refs/heads/main/cli-install.md)
+
+```bash
+infsh login
+
+# Generate a storyboard panel
+infsh app run falai/flux-dev-lora --input '{
+  "prompt": "storyboard panel, wide establishing shot of a modern city skyline at sunset, cinematic composition, slightly desaturated colors, film still style, 16:9 aspect ratio",
+  "width": 1248,
+  "height": 832
+}'
+
+# Stitch panels into a board
+infsh app run infsh/stitch-images --input '{
+  "images": ["panel1.png", "panel2.png", "panel3.png"],
+  "direction": "horizontal"
+}'
+```
+
+
+## Shot Types
+
+| Abbreviation | Name | Framing | When to Use |
+|-------------|------|---------|-------------|
+| **ECU** | Extreme Close-Up | Eyes only, a detail | Intense emotion, revealing detail |
+| **CU** | Close-Up | Face fills frame | Emotion, reaction, dialogue |
+| **MCU** | Medium Close-Up | Head and shoulders | Interviews, conversations |
+| **MS** | Medium Shot | Waist up | General dialogue, action |
+| **MLS** | Medium Long Shot | Knees up | Walking, casual interaction |
+| **LS** | Long Shot | Full body | Character in environment |
+| **WS** | Wide Shot | Environment dominant | Establishing location, scale |
+| **EWS** | Extreme Wide Shot | Vast landscape | Epic scope, isolation, transitions |
+
+### Generating Each Shot Type
+
+```bash
+# Close-Up — emotion focus
+infsh app run falai/flux-dev-lora --input '{
+  "prompt": "close-up shot of a woman face showing concern, soft dramatic lighting from the left, shallow depth of field, cinematic film still, slightly desaturated",
+  "width": 1248,
+  "height": 832
+}'
+
+# Medium Shot — dialogue scene
+infsh app run falai/flux-dev-lora --input '{
+  "prompt": "medium shot of two people talking across a table in a cafe, warm afternoon light through windows, natural composition, cinematic film still, 35mm lens look",
+  "width": 1248,
+  "height": 832
+}'
+
+# Wide Shot — establishing
+infsh app run falai/flux-dev-lora --input '{
+  "prompt": "wide establishing shot of a futuristic laboratory interior, dramatic overhead lighting, long corridor with glass walls, sci-fi atmosphere, cinematic composition, anamorphic lens style",
+  "width": 1248,
+  "height": 832
+}'
+```
+
+## Camera Angles
+
+| Angle | Effect | When to Use |
+|-------|--------|-------------|
+| **Eye Level** | Neutral, natural | Default for most scenes |
+| **High Angle** | Subject looks small, vulnerable | Showing weakness, overview |
+| **Low Angle** | Subject looks powerful, dominant | Authority, heroism, threat |
+| **Bird's Eye** | God-like overview | Maps, establishing geography |
+| **Worm's Eye** | Extreme power, awe | Architecture, towering figures |
+| **Dutch Angle** | Unease, disorientation | Tension, madness, action |
+| **Over-the-Shoulder (OTS)** | Viewer positioned with character | Conversations, POV |
+
+## Camera Movement
+
+| Movement | Description | Emotion |
+|----------|-------------|---------|
+| **Pan** | Camera rotates horizontally (on tripod) | Scanning, following, revealing |
+| **Tilt** | Camera rotates vertically (on tripod) | Revealing height, power |
+| **Dolly** | Camera moves toward/away from subject | Intimacy (in), distance (out) |
+| **Truck** | Camera moves laterally | Following alongside, revealing |
+| **Crane/Jib** | Camera moves up or down vertically | Grand reveals, transitions |
+| **Zoom** | Lens focal length changes (camera stays) | Focus shift, dramatic emphasis |
+| **Steadicam/Gimbal** | Smooth handheld tracking | Immersion, following action |
+| **Handheld** | Deliberate camera shake | Urgency, documentary feel, chaos |
+| **Static** | Camera doesn't move | Stability, observation, tension |
+
+In storyboards, indicate movement with arrows drawn on panels.
+
+## Continuity Rules
+
+### The 180-Degree Rule
+
+Imagine a line (axis) between two characters in conversation. The camera must stay on ONE side of that line.
+
+```
+         Character A        Character B
+              ●─────────────────●
+             /                   \
+           /     CAMERA ZONE      \
+         /     (stay on this side)  \
+       📷          📷          📷
+     Camera 1   Camera 2   Camera 3
+```
+
+**Crossing the line** confuses the viewer about spatial relationships. Only cross intentionally (with a neutral shot in between or a visible camera move).
+
+### Match on Action
+
+When cutting between two angles of the same action, the action must continue seamlessly:
+
+```
+Panel A: Hand reaches for door handle (medium shot)
+Panel B: Hand grabs door handle (close-up)
+         ↑ Action continues from same point
+```
+
+### Eyeline Match
+
+When a character looks at something, the next shot should show what they're looking at, from their approximate point of view.
+
+```
+Panel A: Character looks up and to the right
+Panel B: The object they see, framed from slightly below-left
+```
+
+### Screen Direction
+
+If a character moves left-to-right in one shot, they should continue left-to-right in the next. Reversing direction implies they turned around.
+
+## Panel Layout
+
+### Standard Formats
+
+| Layout | Panels | Use For |
+|--------|--------|---------|
+| 2x3 (6 panels) | 6 per page | Detailed scenes, dialogue |
+| 3x3 (9 panels) | 9 per page | Action sequences, montages |
+| 2x2 (4 panels) | 4 per page | Key moments, presentations |
+| Single | 1 per page | Hero shots, critical moments |
+
+### Panel Annotation Format
+
+Each panel should include:
+
+```
+┌────────────────────────────────────┐
+│ SCENE 3 — SHOT 2                   │ ← Scene and shot number
+│                                    │
+│   [Generated image here]           │ ← Visual
+│                                    │
+├────────────────────────────────────┤
+│ Shot: MS, eye level                │ ← Shot type and angle
+│ Movement: Slow dolly in            │ ← Camera movement
+│ Duration: 4 sec                    │ ← Estimated duration
+│ Action: Sarah opens the letter     │ ← What happens
+│ Dialogue: "This changes everything"│ ← Any spoken lines
+│ SFX: Paper rustling, clock ticking │ ← Sound effects
+│ Music: Tension builds              │ ← Music cue
+└────────────────────────────────────┘
+```
+
+## Storyboard Workflow
+
+### Step 1: Shot List
+
+Before generating images, write a shot list:
+
+```
+SCENE 1 — OFFICE, DAY
+
+1.1  WS  - Establishing shot of office building exterior, morning
+1.2  MS  - Sarah walks through office, carrying coffee
+1.3  CU  - Sarah's face, notices something on her desk
+1.4  ECU - An envelope on the desk, unfamiliar handwriting
+1.5  MS  - Sarah picks up envelope, opens it
+1.6  CU  - Sarah's eyes widen as she reads
+1.7  ECU - Key phrase on the letter (insert text)
+```
+
+### Step 2: Generate Panels
+
+Use consistent style across all panels:
+
+```bash
+# Establish a consistent style prompt suffix
+STYLE="cinematic film still, slightly desaturated, warm color grade, 35mm lens, shallow depth of field"
+
+# Panel 1.1 — Wide establishing
+infsh app run falai/flux-dev-lora --input "{
+  \"prompt\": \"wide shot of a modern glass office building exterior, morning golden hour light, people entering, $STYLE\",
+  \"width\": 1248, \"height\": 832
+}" --no-wait
+
+# Panel 1.2 — Medium shot
+infsh app run falai/flux-dev-lora --input "{
+  \"prompt\": \"medium shot of a professional woman walking through a modern open office, carrying coffee cup, morning light through windows, $STYLE\",
+  \"width\": 1248, \"height\": 832
+}" --no-wait
+
+# Panel 1.3 — Close-up
+infsh app run falai/flux-dev-lora --input "{
+  \"prompt\": \"close-up of a woman face looking down at her desk with curious expression, soft office lighting, $STYLE\",
+  \"width\": 1248, \"height\": 832
+}" --no-wait
+```
+
+### Step 3: Assemble Board
+
+```bash
+# Stitch panels into rows
+infsh app run infsh/stitch-images --input '{
+  "images": ["panel_1_1.png", "panel_1_2.png", "panel_1_3.png"],
+  "direction": "horizontal"
+}'
+
+infsh app run infsh/stitch-images --input '{
+  "images": ["panel_1_4.png", "panel_1_5.png", "panel_1_6.png"],
+  "direction": "horizontal"
+}'
+
+# Then stitch rows vertically for full page
+infsh app run infsh/stitch-images --input '{
+  "images": ["row1.png", "row2.png"],
+  "direction": "vertical"
+}'
+```
+
+## Style Consistency Tips
+
+- Use the **same style suffix** across all panels (lens, color grade, lighting)
+- Use **FLUX LoRA** if you need consistent characters across panels
+- Keep the **same aspect ratio** for all panels
+- Generate **more panels than you need** and select the best
+- If a panel doesn't match the style, regenerate with adjusted prompt
+
+## Common Mistakes
+
+| Mistake | Problem | Fix |
+|---------|---------|-----|
+| Crossing the 180-degree line | Confuses spatial relationships | Stay on one side or use neutral shot |
+| All same shot type | Visually boring, no rhythm | Vary between CU, MS, WS |
+| No establishing shot | Viewer doesn't know where they are | Start scenes with WS or EWS |
+| Too many shots per scene | Pacing drags | 5-8 shots per scene is typical |
+| Inconsistent style between panels | Looks like different projects | Use same style prompt suffix |
+| Missing annotations | Panels are ambiguous | Always note shot type, movement, action |
+
+## Related Skills
+
+```bash
+npx skills add inference-sh/skills@ai-image-generation
+npx skills add inference-sh/skills@ai-video-generation
+npx skills add inference-sh/skills@video-prompting-guide
+npx skills add inference-sh/skills@prompt-engineering
+```
+
+Browse all apps: `infsh app list`
+
+
+
+===== C:\Users\Abhijith\.agents\skills\video-prompting-guide\SKILL.md =====
+---
+name: video-prompting-guide
+description: "Best practices and techniques for writing effective AI video generation prompts. Covers: Veo, Seedance, Wan, Grok, Kling, Runway, Pika, Sora prompting strategies. Learn: shot types, camera movements, lighting, pacing, style keywords, negative prompts. Use for: improving video quality, getting consistent results, professional video prompts. Triggers: video prompt, how to prompt video, veo prompts, video generation tips, better ai video, video prompt engineering, video prompt guide, video prompt template, ai video tips, video prompt best practices, video prompt examples, cinematography prompts"
+allowed-tools: Bash(infsh *)
+---
+
+# Video Prompting Guide
+
+Best practices for writing effective AI video generation prompts via [inference.sh](https://inference.sh).
+
+![Video Prompting Guide](https://cloud.inference.sh/app/files/u/4mg21r6ta37mpaz6ktzwtt8krr/01kg2c0egyg243mnyth4y6g51q.jpeg)
+
+## Quick Start
+
+> Requires inference.sh CLI (`infsh`). [Install instructions](https://raw.githubusercontent.com/inference-sh/skills/refs/heads/main/cli-install.md)
+
+```bash
+infsh login
+
+# Well-structured video prompt
+infsh app run google/veo-3-1-fast --input '{
+  "prompt": "Cinematic tracking shot of a red sports car driving through Tokyo at night, neon lights reflecting on wet streets, rain falling, 4K, shallow depth of field"
+}'
+```
+
+
+## Prompt Structure Formula
+
+```
+[Shot Type] + [Subject] + [Action] + [Setting] + [Lighting] + [Style] + [Technical]
+```
+
+### Example Breakdown
+
+```
+"Slow motion close-up of coffee being poured into a white ceramic cup,
+steam rising, morning sunlight streaming through window, warm color grading,
+cinematic, 4K, shallow depth of field"
+```
+
+- **Shot Type**: Slow motion close-up
+- **Subject**: Coffee
+- **Action**: Being poured
+- **Setting**: White ceramic cup, window
+- **Lighting**: Morning sunlight
+- **Style**: Warm color grading, cinematic
+- **Technical**: 4K, shallow depth of field
+
+## Shot Types
+
+| Shot Type | Description | Use For |
+|-----------|-------------|---------|
+| Wide shot | Shows entire scene | Establishing location |
+| Medium shot | Waist-up framing | Conversations, actions |
+| Close-up | Face or detail | Emotion, product detail |
+| Extreme close-up | Single feature | Drama, texture |
+| Aerial shot | Bird's eye view | Landscapes, scale |
+| Low angle | Camera looking up | Power, grandeur |
+| High angle | Camera looking down | Vulnerability |
+| Dutch angle | Tilted camera | Unease, tension |
+| POV shot | First person view | Immersion |
+
+## Camera Movements
+
+| Movement | Description | Effect |
+|----------|-------------|--------|
+| Tracking shot | Camera follows subject | Dynamic, engaging |
+| Dolly in/out | Camera moves toward/away | Focus, reveal |
+| Pan | Horizontal rotation | Survey scene |
+| Tilt | Vertical rotation | Reveal height |
+| Crane shot | Vertical + horizontal | Dramatic reveal |
+| Handheld | Slight shake | Realism, urgency |
+| Steadicam | Smooth following | Professional, cinematic |
+| Zoom | Lens zoom in/out | Quick focus change |
+| Static | No movement | Contemplation, stability |
+
+## Lighting Keywords
+
+| Keyword | Effect |
+|---------|--------|
+| Golden hour | Warm, soft, romantic |
+| Blue hour | Cool, moody, twilight |
+| High key | Bright, minimal shadows |
+| Low key | Dark, dramatic shadows |
+| Rim lighting | Subject outlined with light |
+| Backlit | Light from behind subject |
+| Soft lighting | Gentle, flattering |
+| Hard lighting | Sharp shadows, contrast |
+| Neon | Colorful, urban, cyberpunk |
+| Natural lighting | Realistic, documentary |
+
+## Style Keywords
+
+### Cinematic Styles
+
+```
+cinematic, film grain, anamorphic lens, letterbox,
+shallow depth of field, bokeh, 35mm film,
+color grading, theatrical
+```
+
+### Visual Aesthetics
+
+```
+minimalist, maximalist, vintage, retro, futuristic,
+cyberpunk, steampunk, noir, pastel, vibrant,
+muted colors, high contrast, desaturated
+```
+
+### Quality Keywords
+
+```
+4K, 8K, high resolution, photorealistic,
+hyperrealistic, ultra detailed, professional,
+broadcast quality, HDR
+```
+
+## Prompt Examples by Use Case
+
+### Product Demo
+
+```bash
+infsh app run google/veo-3-1-fast --input '{
+  "prompt": "Smooth tracking shot around a sleek smartphone on a white pedestal, soft studio lighting, product photography style, reflections on surface, 4K, shallow depth of field"
+}'
+```
+
+### Nature Documentary
+
+```bash
+infsh app run google/veo-3-1 --input '{
+  "prompt": "Slow motion extreme close-up of a hummingbird hovering at a red flower, wings in motion blur, shallow depth of field, golden hour lighting, National Geographic style"
+}'
+```
+
+### Urban Lifestyle
+
+```bash
+infsh app run google/veo-3 --input '{
+  "prompt": "Tracking shot following a cyclist through busy city streets, morning rush hour, natural lighting, handheld camera feel, documentary style, authentic and candid"
+}'
+```
+
+### Food Content
+
+```bash
+infsh app run bytedance/seedance-1-5-pro --input '{
+  "prompt": "Close-up of chocolate sauce being drizzled over ice cream, slow motion, steam rising, soft lighting, food photography style, appetizing, commercial quality"
+}'
+```
+
+### Tech/Futuristic
+
+```bash
+infsh app run xai/grok-imagine-video --input '{
+  "prompt": "Futuristic control room with holographic displays, camera slowly pans across the space, blue and cyan lighting, sci-fi atmosphere, Blade Runner aesthetic, 4K",
+  "duration": 5
+}'
+```
+
+## Common Mistakes to Avoid
+
+| Mistake | Problem | Better Approach |
+|---------|---------|-----------------|
+| Too vague | "A nice video" | Specify shot, subject, style |
+| Too complex | Multiple scenes | One scene per prompt |
+| No motion | Static description | Include camera movement or action |
+| Conflicting styles | "Minimalist maximalist" | Choose one aesthetic |
+| No lighting | Undefined mood | Specify lighting conditions |
+
+## Model-Specific Tips
+
+### Google Veo
+
+- Excels at realistic, cinematic content
+- Supports audio generation (Veo 3+)
+- Best with detailed, professional prompts
+- Frame interpolation available in 3.1
+
+### Seedance
+
+- Strong at dance and human motion
+- First-frame control available
+- Good for consistent character motion
+- Works well with reference images
+
+### Wan 2.5
+
+- Best for image-to-video
+- Animates still images naturally
+- Good motion prediction
+- Works with any image style
+
+### Grok
+
+- Good general-purpose video
+- Configurable duration (5-10s)
+- Creative interpretations
+- Works well with abstract concepts
+
+## Workflow: Iterative Prompting
+
+```bash
+# 1. Start with basic prompt
+infsh app run google/veo-3-1-fast --input '{
+  "prompt": "A woman walking through a forest"
+}'
+
+# 2. Add specificity
+infsh app run google/veo-3-1-fast --input '{
+  "prompt": "Medium tracking shot of a woman in a red dress walking through an autumn forest"
+}'
+
+# 3. Add style and technical details
+infsh app run google/veo-3-1-fast --input '{
+  "prompt": "Cinematic medium tracking shot of a woman in a flowing red dress walking through an autumn forest, golden hour sunlight filtering through leaves, shallow depth of field, film grain, 4K"
+}'
+```
+
+## Related Skills
+
+```bash
+# Generate videos
+npx skills add inference-sh/skills@ai-video-generation
+
+# Google Veo specific
+npx skills add inference-sh/skills@google-veo
+
+# Generate images for image-to-video
+npx skills add inference-sh/skills@ai-image-generation
+
+# General prompt engineering
+npx skills add inference-sh/skills@prompt-engineering
+
+# Full platform skill
+npx skills add inference-sh/skills@infsh-cli
+```
+
+Browse all video apps: `infsh app list --category video`
+
+## Documentation
+
+- [Running Apps](https://inference.sh/docs/apps/running) - How to run apps via CLI
+- [Video Generation Guide](https://inference.sh/blog/guides/video-generation) - Comprehensive video guide
+
+
+
+===== C:\Users\Abhijith\.agents\skills\viral-hook-creator\SKILL.md =====
+---
+name: viral-hook-creator
+description: Creates viral social media hooks using proven psychological patterns and trigger words. Use when user needs attention-grabbing openings for posts, threads, videos, or content.
+---
+
+# Viral Hook Creator
+
+## Purpose
+Generate 3-5 viral hook options using proven psychological patterns that create curiosity, provide value, and drive engagement. Hooks are optimized for social platforms (X/Twitter, LinkedIn, Instagram, TikTok).
+
+---
+
+## Execution Logic
+
+**Check $ARGUMENTS first to determine execution mode:**
+
+### If $ARGUMENTS is empty or not provided:
+Respond with:
+"viral-hook-creator loaded, proceed with additional instructions"
+
+Then wait for the user to provide their requirements in the next message.
+
+### If $ARGUMENTS contains content:
+Proceed immediately to Task Execution (skip the "loaded" message).
+
+---
+
+## Task Execution
+
+When user requirements are available (either from initial $ARGUMENTS or follow-up message):
+
+### 1. MANDATORY: Read Reference Files FIRST
+**BLOCKING REQUIREMENT - DO NOT SKIP THIS STEP**
+
+Before doing ANYTHING else, you MUST use the Read tool to read BOTH reference files. This is non-negotiable:
+
+```
+Read: ./references/hook-patterns.md
+Read: ./references/trigger_words.md
+```
+
+**What you will find:**
+- **hook-patterns.md**: 18 proven hook patterns with templates, psychology explanations, and the Pattern Selection Matrix
+- **trigger_words.md**: Four categories of viral trigger words (Insider, Helper, Thinker, Amplifiers)
+
+**DO NOT PROCEED** to step 2 until you have read both files and have the patterns and trigger words loaded in context.
+
+### 2. Check for Business Context (Optional)
+Check if `FOUNDER_CONTEXT.md` exists in the project root.
+- **If it exists:** Read it and use the business context to personalize your output (industry terminology, audience pain points, brand voice, authority metrics).
+- **If it doesn't exist:** Proceed using defaults from the "Defaults & Assumptions" section.
+
+### 3. Analyze Input
+From the user's requirements, extract:
+- Content topic/theme
+- Target platform (X, LinkedIn, Instagram, TikTok, general)
+- Goal (awareness, education, engagement, conversion)
+- Target audience demographics and psychographics
+- Available social proof (stats, achievements, research)
+
+For any missing information, apply defaults from the **"Defaults & Assumptions"** section.
+
+### 4. Generate Viral Hooks
+Using the patterns and trigger words you read in Step 1, create hooks:
+
+1. **Select patterns** from hook-patterns.md using the Pattern Selection Matrix (match user's goal + platform)
+2. **Draft each hook** using the pattern template as your starting point
+3. **Integrate 1-2 trigger words** from trigger_words.md into each hook as you write:
+   - **Insider words** (secretly, revealed, hidden, uncovered, etc.) → exclusivity patterns
+   - **Helper words** (losing, wasting, bleeding, stealing, etc.) → problem/urgency patterns
+   - **Thinker words** (backwards, myth, counterintuitive, paradox, etc.) → contrarian patterns
+   - **Amplifiers** (literally, every, zero, completely, etc.) → any pattern for intensity
+
+4. **Follow all Writing Rules** (Core Rules, Pattern-Specific Rules, Platform-Specific Adaptations)
+5. **Ensure differentiation** - each hook must use a unique pattern
+6. **Verify natural integration** - trigger words should enhance, not distract
+
+### 5. Format and Verify
+- Structure output according to **Output Format** section
+- Complete **Quality Checklist** self-verification
+- Verify each hook contains trigger words from the reference file
+
+---
+
+## Writing Rules
+Hard constraints. No interpretation.
+
+### Core Rules
+- Maximum 120 characters for X/Twitter hooks.
+- Maximum 1-2 lines (40-60 characters) for video hooks.
+- Lead with the most interesting element.
+- Create a curiosity gap (promise value but withhold details).
+- Use specific numbers when possible (not "many" but "17").
+- Avoid clickbait that doesn't deliver.
+- Use power words: steal, secret, mistake, never, proven, blueprint.
+- No emojis unless platform-specific (Instagram/TikTok OK, LinkedIn/X avoid).
+- No fluff or filler words.
+- Active voice only.
+- Present tense preferred.
+
+### Pattern-Specific Rules
+- For authority hooks: Lead with credible metric.
+- For list hooks: Use odd numbers (7 > 6, 5 > 4).
+- For story hooks: Start with unexpected outcome.
+- For data hooks: Lead with surprising stat.
+- For cautionary hooks: Lead with mistake/lesson.
+
+### Platform-Specific Adaptations
+- **X/Twitter**: Punchy, contrarian, data-driven, 120 char max.
+- **LinkedIn**: Professional, achievement-oriented, thought leadership, 40-60 char first line.
+- **Instagram**: Visual promise, lifestyle-oriented, aspirational, 125 char before "more" cutoff.
+- **TikTok**: Fast-paced, relatable, trend-aware, 20-30 char on-screen text.
+- **General**: Versatile, platform-agnostic.
+
+---
+
+## Output Format
+Clean and simple. Just hooks with their pattern type as a headline.
+
+```markdown
+### [Pattern Name]
+[Hook text]
+
+### [Pattern Name]
+[Hook text]
+
+### [Pattern Name]
+[Hook text]
+```
+
+**Example:**
+```markdown
+### Authority Credibility
+I run a 23-person software agency. Here are 5 things I would never do again.
+
+### Data-Driven Insight
+I analyzed 1,000 LinkedIn posts. Here are the top 5 patterns that drove engagement.
+
+### Contrarian
+Everyone tells you to post daily. I posted 3x per week and got 10x more engagement.
+```
+
+---
+
+## Defaults & Assumptions
+
+Use these unless overridden.
+
+- Number of hooks: 3
+- Platform: X/Twitter (most restrictive character limit).
+- Goal: Maximize engagement (likes, comments, shares).
+- Audience: General business/entrepreneurship audience.
+- Tone: Professional but conversational (matches most founders).
+- Emotion: Curiosity (safest default for viral content).
+- Format: Thread/post opener (not video hook).
+
+---
+
+## References
+
+**These files MUST be read using the Read tool before generating any hooks (see Step 1 of Task Execution):**
+
+| File | Purpose |
+|------|---------|
+| `./references/hook-patterns.md` | 18 proven hook patterns with templates, psychology, and Pattern Selection Matrix |
+| `./references/trigger_words.md` | Viral trigger word categories (Insider, Helper, Thinker, Amplifiers) |
+
+**Why both matter:** Hook patterns provide psychological structure. Trigger words amplify emotional impact. Patterns alone = good hook. Patterns + trigger words = viral hook (~10x more engagement).
+
+---
+
+## Quality Checklist (Self-Verification)
+
+Before finalizing, verify ALL of the following:
+
+### Pre-Generation Check
+- [ ] I read `./references/hook-patterns.md` before generating hooks
+- [ ] I read `./references/trigger_words.md` before generating hooks
+- [ ] I have the 18 patterns and 4 trigger word categories in context
+
+### Pattern & Structure Verification
+- [ ] Each hook uses a proven pattern from hook-patterns.md (not made-up patterns)
+- [ ] Each hook uses a DIFFERENT pattern (no repetition)
+- [ ] Pattern templates were adapted to user context
+- [ ] Hooks create genuine curiosity without being misleading
+
+### Trigger Word Integration Verification
+- [ ] Each hook contains 1-2 trigger words FROM THE FILE I READ
+- [ ] Trigger words match pattern types appropriately
+- [ ] Trigger words are integrated naturally (not forced)
+- [ ] Trigger words enhance emotional impact
+
+### Writing Rules Compliance
+- [ ] Character limits respected for platform
+- [ ] Specific numbers used (not "many" or "some")
+- [ ] Active voice throughout
+- [ ] No fluff or overused phrases
+
+### Final Check
+If ANY hook is missing trigger words from the reference file or uses patterns not from hook-patterns.md → revise before presenting.
+
+---
