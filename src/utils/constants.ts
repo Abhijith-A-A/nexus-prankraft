@@ -3,7 +3,7 @@
 // ══════════════════════════════════════════
 
 export const FRAME_COUNT = 296;
-export const FRAME_PATH = '/Frames/ezgif-frame-';
+export const FRAME_PATH = import.meta.env.BASE_URL + 'Frames/ezgif-frame-';
 export const FRAME_EXT = '.jpg';
 export const SCROLL_HEIGHT_VH = 800; // 8x viewport — enough for phases without being boring
 export const ZOOM_FACTOR = 1.35;
