@@ -111,6 +111,7 @@ export default function CanvasBackground({ frames, scrollFraction }: CanvasBackg
         transform: `scale(${CANVAS_SCALE})`,
         transformOrigin: 'center center',
         overflow: 'hidden',
+        background: 'linear-gradient(135deg, #e8e4e0 0%, #d4cec8 30%, #bfb8b0 60%, #a9a098 100%)',
       }}
     >
       <canvas ref={canvasRef} style={{ display: 'block' }} />

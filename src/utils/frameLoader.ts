@@ -7,6 +7,8 @@ import { FRAME_COUNT, FRAME_PATH, FRAME_EXT, ZOOM_FACTOR } from './constants';
 export async function preloadFrames(
   onProgress?: (fraction: number) => void
 ): Promise<HTMLImageElement[]> {
+  // Cache-bust version to avoid stale 404s from old deployments
+  const cacheBust = `?v=${Date.now()}`;
   const frames: HTMLImageElement[] = new Array(FRAME_COUNT);
   let loaded = 0;
 
@@ -21,7 +23,7 @@ export async function preloadFrames(
     for (let i = batchStart; i < batchEnd; i++) {
       const idx = i + 1;
       const pad = String(idx).padStart(3, '0');
-      const src = `${FRAME_PATH}${pad}${FRAME_EXT}`;
+      const src = `${FRAME_PATH}${pad}${FRAME_EXT}${cacheBust}`;
 
       batchPromises.push(
         new Promise<void>((resolve) => {
